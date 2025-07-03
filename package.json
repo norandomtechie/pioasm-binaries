@@ -1,6 +1,6 @@
 {
    "description": "pioasm",
-   "name": "tool-picotool-norandomtechie",
+   "name": "tool-pioasm-norandomtechie",
    "system": [ "windows_x86", "linux_x86_64", "macos" ],
    "url": "https://github.com/norandomtechie/pioasm-binaries",
    "version": "1.00"
